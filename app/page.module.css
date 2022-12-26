@@ -80,6 +80,7 @@
   padding: 4rem 0;
 }
 
+/*
 .center::before {
   background: var(--secondary-glow);
   border-radius: 50%;
@@ -103,6 +104,7 @@
   filter: blur(45px);
   transform: translateZ(0);
 }
+*/
 
 .logo,
 .thirteen {
