@@ -1,15 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and Tailwind CSS.
 
+![image](https://user-images.githubusercontent.com/403818/209491681-2a36c308-676b-49f7-a9ab-18d9a4f34164.png)
+
 ## Getting Started
 
 ```bash
 npm install
-```
-
-```bash
 npm run dev
-# or
-yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
